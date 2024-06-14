@@ -19,7 +19,7 @@ const FooterComp = () => {
 					<FooterLink>xbox consoles </FooterLink>
 					<FooterLink>xbox games</FooterLink>
 					<FooterLink>xbox game pass</FooterLink>
-					<FooterLink>xbox accessories</FooterLink>
+					<FooterLink>acessórios xbox</FooterLink>
 				</FooterColumn>
 
 				<FooterColumn>
@@ -28,7 +28,7 @@ const FooterComp = () => {
 					<FooterLink>xbox consoles </FooterLink>
 					<FooterLink>xbox games</FooterLink>
 					<FooterLink>xbox game pass</FooterLink>
-					<FooterLink>xbox accessories</FooterLink>
+					<FooterLink>acessórios xbox</FooterLink>
 				</FooterColumn>
 				<FooterColumn>
 					<FooterColumnTitle>Browse</FooterColumnTitle>
@@ -36,20 +36,20 @@ const FooterComp = () => {
 					<FooterLink>xbox consoles </FooterLink>
 					<FooterLink>xbox games</FooterLink>
 					<FooterLink>xbox game pass</FooterLink>
-					<FooterLink>xbox accessories</FooterLink>
+					<FooterLink>acessórios xbox</FooterLink>
 				</FooterColumn>
 			</FooterLinksContainer>
 
 			<FooterLegalLinks>
 				<FooterLink>Sitemap</FooterLink>
-				<FooterLink>Contact Microsoft</FooterLink>
-				<FooterLink>Privacy</FooterLink>
-				<FooterLink>Terms of use</FooterLink>
-				<FooterLink>Trademarks</FooterLink>
-				<FooterLink>Third party notices</FooterLink>
-				<FooterLink>Safety & eco</FooterLink>
-				<FooterLink>About our ads</FooterLink>
-				<FooterLink>© Microsoft 2022</FooterLink>
+				<FooterLink>Contato Microsoft</FooterLink>
+				<FooterLink>Privacidade</FooterLink>
+				<FooterLink>Termos de uso</FooterLink>
+				<FooterLink>Marcas registradas</FooterLink>
+				<FooterLink>Avisos de terceiros</FooterLink>
+				<FooterLink>Segurança e ecologia</FooterLink>
+				<FooterLink>Sobre nossos anúncios</FooterLink>
+				<FooterLink>© Microsoft Xbox Clone 2024</FooterLink>
 			</FooterLegalLinks>
 		</Footer>
 	)

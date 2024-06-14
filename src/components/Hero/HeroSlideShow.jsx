@@ -30,34 +30,34 @@ import xbox_big from 'media/hero_section/big/xbox_big.jpg'
 const slideShowData = [
 	{
 		title: 'Xbox & Bethesda Games Showcase 2022',
-		subtitle: 'Streaming live on Sunday, June 12, 2022.',
+		subtitle: 'Transmissão ao vivo no domingo, 12 de junho de 2022.',
 		images: {
 			small: xbox,
 			big: xbox_big,
 		},
-		buttonText: 'learn more',
+		buttonText: 'saber mais',
 		leftSide: true,
 	},
 	{
 		yellowTag: '',
 		title: 'Tiny Tina’s Wonderlands ',
-		subtitle: 'Whimsy, wonder, and high-powered weaponry',
+		subtitle: 'Armamento extravagante, maravilhoso e de alta potência',
 		images: {
 			small: tiny_tina,
 			big: tiny_tina_big,
 		},
-		buttonText: 'Get it Now',
+		buttonText: 'Obtê-lo agora',
 	},
 
 	{
 		yellowTag: 'console . pc . cloud',
 		title: 'Sea of Thieves',
-		subtitle: 'Play with PC Game Pass or Ultimate',
+		subtitle: 'Jogue com PC Game Pass ou Ultimate',
 		images: {
 			small: sea,
 			big: sea_big,
 		},
-		buttonText: 'Get it Now',
+		buttonText: 'Obtê-lo agora',
 	},
 ]
 

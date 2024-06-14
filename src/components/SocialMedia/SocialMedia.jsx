@@ -14,7 +14,7 @@ import instagram from 'media/icons/social_media/instagram.svg'
 const SocialMedia = () => {
 	return (
 		<SocialMediaBlock>
-			<FollowText>Follow Xbox</FollowText>
+			<FollowText>Siga o Xbox</FollowText>
 
 			<SocialMediaIcon src={email} />
 			<SocialMediaIcon src={facebook} />

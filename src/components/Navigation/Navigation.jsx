@@ -5,13 +5,13 @@ import { NavLink } from './Navigation.styles'
 
 const navLinks = [
 	'Game Pass',
-	'Games',
-	'Devices',
+	'Jogos',
+	'Dispositivos',
 	'Play',
-	'Community',
-	'Support',
-	'My xbox',
-	'Developers',
+	'Comunidade',
+	'Suporte',
+	'Meu Xbox',
+	'Desenvolvedores',
 ]
 
 const Navigation = ({ Parent }) => {

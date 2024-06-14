@@ -35,14 +35,14 @@ const StarWarsBlock = () => {
 			</BlockImg>
 
 			<StarWarsDescription>
-				<BlockTitle>SIMPLY NEXT GEN</BlockTitle>
+				<BlockTitle>SIMPLESMENTE DA PRÓXIMA GERAÇÃO</BlockTitle>
 
 				<BlockSubtitle>
-					Experience next gen with LEGO® Star Wars™: the Skywalker Saga with Xbox
-					Series S
+					Experimente a próxima geração com LEGO® Star Wars™: a Saga Skywalker com Xbox
+					Série S
 				</BlockSubtitle>
 
-				<GreenBtn>Learn More</GreenBtn>
+				<GreenBtn>Saber mais</GreenBtn>
 			</StarWarsDescription>
 		</HorizontalBlock>
 	)
@@ -57,14 +57,14 @@ const GearShopBlock = () => {
 			</BlockImg>
 
 			<GearShopDescription>
-				<BlockTitle>SIMPLY NEXT GEN</BlockTitle>
+				<BlockTitle>SIMPLESMENTE DA PRÓXIMA GERAÇÃO</BlockTitle>
 
 				<BlockSubtitle>
-					Experience next gen with LEGO® Star Wars™: the Skywalker Saga with Xbox
-					Series S
+					Experimente a próxima geração com LEGO® Star Wars™: a Saga Skywalker com Xbox
+					Série S
 				</BlockSubtitle>
 
-				<GreenBtn>Learn More</GreenBtn>
+				<GreenBtn>Saber mais</GreenBtn>
 			</GearShopDescription>
 		</HorizontalBlock>
 	)

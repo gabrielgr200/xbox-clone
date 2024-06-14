@@ -18,7 +18,7 @@ const iconData = [
 		icon: consoles,
 	},
 	{
-		name: 'Accessories',
+		name: 'Acessórios',
 		icon: accessories,
 	},
 	{
@@ -26,7 +26,7 @@ const iconData = [
 		icon: play,
 	},
 	{
-		name: 'Sign In',
+		name: 'Entrar',
 		icon: sign_in,
 	},
 ]
